@@ -1,2 +1,3 @@
 # learn-css
-notes taken during my journey on CSS
+Notes taken during my journey on CSS
+
